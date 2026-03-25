@@ -71,7 +71,7 @@ Looking forward to collaborating and learning from this amazing community! 🚀
 ### Note:
 ⚠️ Note: My previous GitHub account was unfortunately compromised and has been disabled on 24 March 2026. From here on, this is my primary and official GitHub account where I will be sharing all my work and projects. I will try to recover and all my projects at the earliest in this account. Few of the glimpses of previous account.
 
-![](
+![](https://github.com/start-again-006/start-again-006/blob/27ab68112a5353cb6fb0e6bade3394721cb7724d/Image_1_Github.png)
 ![]
 ![]
 ### Contact:
