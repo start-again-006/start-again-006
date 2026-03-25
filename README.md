@@ -66,12 +66,14 @@ I’ve recently started sharing some of my projects with like-minded individuals
 
 Looking forward to collaborating and learning from this amazing community! 🚀
 
-![](https://komarev.com/ghpvc/?username=start-again-06&color=blue&style=flat-square&label=Profile+Views&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=start-again-006&color=blue&style=flat-square&label=Profile+Views&abbreviated=true)
 
 ### Note:
 ⚠️ Note: My previous GitHub account was unfortunately compromised and has been disabled on 24 March 2026. From here on, this is my primary and official GitHub account where I will be sharing all my work and projects. I will try to recover and all my projects at the earliest in this account. Few of the glimpses of previous account.
 
-
+![](
+![]
+![]
 ### Contact:
 Reach out to me and let me know how I can assist you in making your day brighter and better! I would love to serve/ guide/ collaborate with any passionate individual working/ seeking to work in similar areas or require a skill set that I can offer. Email: anjanmahapatra10@gmail.com
 
