@@ -72,8 +72,8 @@ Looking forward to collaborating and learning from this amazing community! 🚀
 ⚠️ Note: My previous GitHub account was unfortunately compromised and has been disabled on 24 March 2026. From here on, this is my primary and official GitHub account where I will be sharing all my work and projects. I will try to recover and all my projects at the earliest in this account. Few of the glimpses of previous account.
 
 ![](https://github.com/start-again-006/start-again-006/blob/27ab68112a5353cb6fb0e6bade3394721cb7724d/Image_1_Github.png)
-![]
-![]
+![](https://github.com/start-again-006/start-again-006/blob/842588405c5cb546059011fe69d23715b66a2948/Image_2_Github.png)
+![]()
 ### Contact:
 Reach out to me and let me know how I can assist you in making your day brighter and better! I would love to serve/ guide/ collaborate with any passionate individual working/ seeking to work in similar areas or require a skill set that I can offer. Email: anjanmahapatra10@gmail.com
 
